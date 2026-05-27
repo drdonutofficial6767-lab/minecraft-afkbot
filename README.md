@@ -21,6 +21,8 @@ An AFK system for Minecraft with a user-friendly web interface. This tool helps 
 
 ## Prerequisites
 
+
+  
 - [Node.js](https://nodejs.org/) (v14 or newer recommended)
 - A valid Minecraft account (Microsoft or Mojang)
 
